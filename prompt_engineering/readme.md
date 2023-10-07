@@ -12,7 +12,9 @@ Medium article : https://medium.com/@ananya.joshi_70890/creating-an-interactive-
 Video: Is available on canvas submission(link to google drive)
 
 part c) Write a full web app for prompt library with prompt search (use pinecone langchain library) - people can contribute the prompts nad search for prompts
-use chatgpt generously for full app Should support prompt fragments as well as full prompts. support proper templating, input and output answer engienering
+use chatgpt generously for full app Should support prompt fragments as well as full prompts. support proper templating, input and output answer engienering.
+
+
 
 
 
